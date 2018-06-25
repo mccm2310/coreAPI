@@ -1,0 +1,8 @@
+{
+    "name": "AlmundoCore",
+    "host": "localhost",
+    "port": 8080,
+    "Mongo": {
+        "URI": "mongodb://mccm2310:Fruta123@ds259620.mlab.com:59620/almundodb"
+    }
+}
